@@ -1,3 +1,3 @@
-## Creating and testing classes
+## Basic class learnings
 
-Creating and testing classes# class-testing
+basic class learnings
